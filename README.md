@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mamathi27
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Frontend 
-- 💞️ I’m looking to collaborate on frontend projects
+- 🌱 I’m currently learning System Design 
+- 💞️ I’m looking to collaborate on SpringBoot projects
 - 📫 How to reach me linkedin https://www.linkedin.com/in/mamathi-sathiya-narayanan/
 
 <!---
